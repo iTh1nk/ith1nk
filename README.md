@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**iTh1nk/ith1nk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**We0mmm/ith1nk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
